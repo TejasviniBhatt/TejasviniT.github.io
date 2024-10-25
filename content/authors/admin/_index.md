@@ -146,4 +146,6 @@ awards & Scholarships:
 
 ## About Me
 
-I am a Master’s student specializing in International Economics at the University of Tübingen, where I am developing expertise in predicting economic indicators and analyzing large datasets to uncover trends and insights that drive global economic strategies. My academic interests lie in understanding the complexities of multinational corporations (MNCs) and their operations across different countries, focusing on how these organizations adapt to varying economic environments.
+I am a Master’s student in International Economics at the University of Tübingen, specializing in predicting economic indicators and analyzing large datasets to uncover trends that inform global economic strategies. My academic focus centers on the complexities of multinational corporations (MNCs) and their adaptation to diverse economic environments across countries.
+
+I completed my Bachelor’s degree at MS University of Baroda, where I built a foundation in core economic concepts. During this time, I worked on projects examining the impact of foreign exchange and currency values on government policies and explored how these policies can position countries as tax havens or offshoring opportunities for multinational firms, and major industry players.
