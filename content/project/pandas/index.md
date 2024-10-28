@@ -1,13 +1,11 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Time Series Forecasting in Python  
+date: 2024-07-04
+external_link: https://colab.research.google.com/drive/1VRq0U0LI-bELay4aIfKMdLbhpmAkku4I?usp=sharing
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Computational Finance
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Developed algorithms for analyzing stock index time series data focusing on optimal parameter selection and employing forecasting techniques like exponential smoothing for accurate trend predictions.
 
 <!--more-->
