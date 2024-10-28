@@ -8,8 +8,14 @@ title: Tejasvini Bhatt
 # Website URL
 baseURL: 'https://example.com/'
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true  # This allows custom HTML if needed
+
 params:
   favicon: "/favicon.ico"
+
 
 
 ############################
