@@ -8,6 +8,10 @@ title: Tejasvini Bhatt
 # Website URL
 baseURL: 'https://example.com/'
 
+params:
+  favicon: "/favicon.ico"
+
+
 ############################
 ## LANGUAGE
 ############################
