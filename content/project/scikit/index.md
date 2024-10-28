@@ -1,7 +1,7 @@
 ---
 title: scikit-learn
 date: 2023-10-26
-external_link: uploads/Behavioural_Finance_Research_Article.pdf
+external_link: Behavioural_Finance_Research_Article.pdf
 tags:
   - Hugo
   - Wowchemy
