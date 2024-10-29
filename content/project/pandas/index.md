@@ -6,6 +6,6 @@ tags:
   - Computational Finance
 ---
 
-Developed algorithms for analyzing stock index time series data focusing on optimal parameter selection and employing forecasting techniques like exponential smoothing for accurate trend predictions.
+Algorithms for optimal parameter selection and trend prediction, using exponential smoothing and train-test validation for precise forecasts.
 
 <!--more-->
