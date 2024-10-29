@@ -50,7 +50,7 @@ education:
   - area: MSc International Economics
     institution: University of Tuebingen 
     date_start: '10/2022'
-    date_end: 'Present'
+    date_end: ''
     summary: |
     -Courses included:
       - Computational Finance
