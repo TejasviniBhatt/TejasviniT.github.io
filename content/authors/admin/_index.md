@@ -48,14 +48,24 @@ interests:
 
 education:
   - area: MSc International Economics
-    #institution: University of Tuebingen 
-    #date_start: ''
-    #date_end: ''
+    institution: University of Tuebingen 
+    date_start: '10/2022'
+    date_end: 'Present'
     summary: |
     -Courses included:
       - Computational Finance
       - Empirical Topics in International Trade
       - Advanced Time Series Analysis
+      - Macroeconomics and Microeconomics
+
+  - area: MSc International Economics
+    institution: University of Baroda 
+    date_start: '06/2018'
+    date_end: '05/2021'
+    summary: |
+    -Courses included:
+      - International Trade
+      - Banking and Finance
       - Macroeconomics and Microeconomics
 
 work:
