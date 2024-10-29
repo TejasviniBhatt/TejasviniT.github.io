@@ -49,7 +49,7 @@ interests:
 education:
   - area: MSc International Economics
     institution: University of Tuebingen 
-    date_start: '10/2022'
+    date_start: 2022-10-01
     date_end: ''
     summary: |
     -Courses included:
@@ -60,8 +60,8 @@ education:
 
   - area: BA Economics Honours
     institution: University of Baroda 
-    date_start: '06/2018'
-    date_end: '05/2021'
+    date_start: 2018-06-01
+    date_end: 2021-06-01
     summary: |
     -Courses included:
       - International Trade
