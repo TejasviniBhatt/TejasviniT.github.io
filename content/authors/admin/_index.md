@@ -58,7 +58,7 @@ education:
       - Advanced Time Series Analysis
       - Macroeconomics and Microeconomics
 
-  - area: MSc International Economics
+  - area: BA Economics Honours
     institution: University of Baroda 
     date_start: '06/2018'
     date_end: '05/2021'
