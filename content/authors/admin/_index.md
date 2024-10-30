@@ -23,7 +23,7 @@ superuser: true
 # highlight_name: true
 
 # Role/position/tagline
-role: Student at the University of Tübingen
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
