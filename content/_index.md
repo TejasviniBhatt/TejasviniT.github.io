@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My existing work includes projects on time series forecasting for stock prices using Python, analyzing trade volumes across continents, and modeling financial structured products to understand market behavior. Skilled in R and Python, I focus on using data to reveal trends in international economics and MNC operations across diverse economic landscapes. I am open to research and internship opportunities to further apply these skills. 😃
+        My work centers on applying data-driven insights to complex challenges in international economics, with a strong focus on multinational corporations (MNCs) and their adaptation to varied economic environments. I’ve led projects including time series forecasting for stock prices using Python, an analyses of trade volumes across continents, and modeling financial structured products to capture market dynamics. My approach is grounded in using data to uncover trends that inform both market strategies and global economic outlooks. I’m eager to apply these analytical skills in research or internship roles. 😊
     design:
       columns: '1'
   # - block: collection
