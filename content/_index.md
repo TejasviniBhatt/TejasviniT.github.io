@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/Curriculum_Vitae24_TejasviniBhatt.pdf
+        url: uploads/Curriculum_Vitae_TejasviniBhatt24.pdf
     design:
       css_class: dark
       background:
