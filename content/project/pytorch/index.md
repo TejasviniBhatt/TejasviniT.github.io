@@ -1,6 +1,6 @@
 ---
 title: Dual Currency Investment (DCI)
-date: 2024-07-22
+date: 2024-04-15
 external_link: https://colab.research.google.com/drive/1f-ZZQLg2_j_vzFrK3wnkal8fYNMrwu6t?usp=sharing
 tags:
   - Continuous Time Derivatives Pricing
