@@ -158,4 +158,4 @@ awards:
 
 I am a Master’s student in International Economics at the University of Tübingen, specializing in predicting economic indicators and analyzing large datasets to uncover trends that inform global economic strategies. My academic focus centers on the complexities of multinational corporations (MNCs) and their adaptation to diverse economic environments across countries.
 
-I completed my Bachelor’s degree at MS University of Baroda, where I built a foundation in core economic concepts. During this time, I worked on projects examining the impact of foreign exchange and currency values on government policies and explored how these policies can position countries as tax havens or offshoring opportunities for multinational firms, and major industry players.
+I completed my Bachelor’s degree at Maharaja Sayajirao University of Baroda, where I built a foundation in core economic concepts. During this time, I worked on projects examining the impact of foreign exchange and currency values on government policies and explored how these policies can position countries as tax havens or offshoring opportunities for multinational firms, and major industry players.
